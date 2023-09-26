@@ -1,4 +1,4 @@
-# junit5-jupiter-starter-gradle
+# Projet Calculator
 
 The `junit5-jupiter-starter-gradle` project demonstrates how to run tests based on JUnit
 Jupiter using [Gradle's native JUnit Platform support], Gradle's Groovy DSL
